@@ -546,11 +546,6 @@
       (net 36 "Net-(J3-Pad1)") (tstamp 386faf3f-2adf-472a-84bf-bd511edf2429))
     (pad "43" smd rect locked (at 2.54 23.9 90) (size 3.5 1.7) (drill (offset -0.9 0)) (layers "F.Cu" "F.Mask")
       (net 36 "Net-(J3-Pad1)") (tstamp de552ae9-cde6-4643-8cc7-9de2579dadae))
-    (model "C:/Users/ncara/OneDrive/IoT/Tools/KiCad/RP-Pico Libraries/Pico.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical" (layer "F.Cu")
